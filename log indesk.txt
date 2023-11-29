@@ -1,0 +1,108 @@
+onWindowResize
+entry.js:229 reinstantiateTiles()
+TilesRendererBase.js:380 ZZZ TilesRenderBase loadRootTileSet:  https://tile.googleapis.com/v1/3dtiles/root.json?key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+TilesRendererBase.js:385 ZZZ TilesRendererBase loadRootTileSet. !url in Tilesets.
+DebugTilesRenderer.js:91 ZZZ DebugTilesRender fetchTileSet: 
+TilesRenderer.js:293 ZZZ TilesRenderer fetchTileSet: https://tile.googleapis.com/v1/3dtiles/root.json?key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+TilesRendererBase.js:343 ZZZ TilesRendererBase fetchTileset().
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:429 ZZZ CONTINUE
+
+
+
+
+
+TilesRendererBase.js:478 tile.__loadIndex ++ 2 1
+TilesRendererBase.js:480 loadIndex 1
+
+TilesRendererBase.js:528 ZZZ TilesRendererBase requestTileContents isExternalTileSet 
+
+TilesRendererBase.js:532 ZZZ isExternalTileSet downloadQueue cb. tile_loadindex 1  loadIndex 1
+TilesRendererBase.js:542 ZZZ isExternalTileSet downloadQueue cb indexes EQUAL 
+TilesRendererBase.js:546 ZZZ isExternalTileSet download queue:  https://tile.googleapis.com/v1/3dtiles/datasets/CgA/files/UlRPVEYuYnVsa21ldGFkYXRhLnBsYW5ldG9pZD1lYXJ0aCxidWxrX21ldGFkYXRhX2Vwb2NoPTk2MixwYXRoPSxjYWNoZV92ZXJzaW9uPTY.json?session=CIeFgtLf5qf_jQEQ1Yr6qgY&session=CIeFgtLf5qf_jQEQ1Yr6qgY&key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+DebugTilesRenderer.js:91 ZZZ DebugTilesRender fetchTileSet: 
+TilesRenderer.js:293 ZZZ TilesRenderer fetchTileSet: https://tile.googleapis.com/v1/3dtiles/datasets/CgA/files/UlRPVEYuYnVsa21ldGFkYXRhLnBsYW5ldG9pZD1lYXJ0aCxidWxrX21ldGFkYXRhX2Vwb2NoPTk2MixwYXRoPSxjYWNoZV92ZXJzaW9uPTY.json?session=CIeFgtLf5qf_jQEQ1Yr6qgY&session=CIeFgtLf5qf_jQEQ1Yr6qgY&key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+TilesRendererBase.js:343 ZZZ TilesRendererBase fetchTileset().
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+TilesRendererBase.js:553 ZZZ isExternalTileSet THEN tile_loadindex 1  loadIndex 1
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:429 ZZZ CONTINUE
+TilesRendererBase.js:478 tile.__loadIndex ++ 2 1
+TilesRendererBase.js:480 loadIndex 1
+TilesRendererBase.js:574 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet NOT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:429 ZZZ CONTINUE
+TilesRendererBase.js:478 tile.__loadIndex ++ 2 1
+TilesRendererBase.js:480 loadIndex 1
+TilesRendererBase.js:574 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet NOT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:429 ZZZ CONTINUE
+TilesRendererBase.js:478 tile.__loadIndex ++ 2 1
+TilesRendererBase.js:480 loadIndex 1
+TilesRendererBase.js:574 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet NOT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:429 ZZZ CONTINUE
+TilesRendererBase.js:478 tile.__loadIndex ++ 2 1
+TilesRendererBase.js:480 loadIndex 1
+TilesRendererBase.js:574 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet NOT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:429 ZZZ CONTINUE
+TilesRendererBase.js:478 tile.__loadIndex ++ 2 1
+TilesRendererBase.js:480 loadIndex 1
+TilesRendererBase.js:574 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet NOT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:429 ZZZ CONTINUE
+TilesRendererBase.js:478 tile.__loadIndex ++ 2 1
+TilesRendererBase.js:480 loadIndex 1
+TilesRendererBase.js:574 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet NOT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:429 ZZZ CONTINUE
+TilesRendererBase.js:478 tile.__loadIndex ++ 2 1
+TilesRendererBase.js:480 loadIndex 1
+TilesRendererBase.js:574 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet NOT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:429 ZZZ CONTINUE
+TilesRendererBase.js:478 tile.__loadIndex ++ 2 1
+TilesRendererBase.js:480 loadIndex 1
+TilesRendererBase.js:574 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet NOT
+TilesRendererBase.js:577 ZZZ NOT isExternalTileSet downloadTile_loadindex 1  loadIndex 1
+TilesRendererBase.js:587 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet download queue:  https://tile.googleapis.com/v1/3dtiles/datasets/CgA/files/UlRPVEYubm9kZWRhdGEucGxhbmV0b2lkPWVhcnRoLG5vZGVfZGF0YV9lcG9jaD05NjIscGF0aD0zMCxjYWNoZV92ZXJzaW9uPTYsaW1hZ2VyeV9lcG9jaD05ODU.glb?session=CIeFgtLf5qf_jQEQ1Yr6qgY&key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+TilesRendererBase.js:577 ZZZ NOT isExternalTileSet downloadTile_loadindex 1  loadIndex 1
+TilesRendererBase.js:587 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet download queue:  https://tile.googleapis.com/v1/3dtiles/datasets/CgA/files/UlRPVEYubm9kZWRhdGEucGxhbmV0b2lkPWVhcnRoLG5vZGVfZGF0YV9lcG9jaD05NjIscGF0aD0yMSxjYWNoZV92ZXJzaW9uPTYsaW1hZ2VyeV9lcG9jaD05ODU.glb?session=CIeFgtLf5qf_jQEQ1Yr6qgY&key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+TilesRendererBase.js:577 ZZZ NOT isExternalTileSet downloadTile_loadindex 1  loadIndex 1
+TilesRendererBase.js:587 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet download queue:  https://tile.googleapis.com/v1/3dtiles/datasets/CgA/files/UlRPVEYubm9kZWRhdGEucGxhbmV0b2lkPWVhcnRoLG5vZGVfZGF0YV9lcG9jaD05NjIscGF0aD0yMCxjYWNoZV92ZXJzaW9uPTYsaW1hZ2VyeV9lcG9jaD05ODU.glb?session=CIeFgtLf5qf_jQEQ1Yr6qgY&key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+TilesRendererBase.js:577 ZZZ NOT isExternalTileSet downloadTile_loadindex 1  loadIndex 1
+TilesRendererBase.js:587 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet download queue:  https://tile.googleapis.com/v1/3dtiles/datasets/CgA/files/UlRPVEYubm9kZWRhdGEucGxhbmV0b2lkPWVhcnRoLG5vZGVfZGF0YV9lcG9jaD05NjIscGF0aD0wMyxjYWNoZV92ZXJzaW9uPTYsaW1hZ2VyeV9lcG9jaD05ODU.glb?session=CIeFgtLf5qf_jQEQ1Yr6qgY&key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+TilesRendererBase.js:577 ZZZ NOT isExternalTileSet downloadTile_loadindex 1  loadIndex 1
+TilesRendererBase.js:587 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet download queue:  https://tile.googleapis.com/v1/3dtiles/datasets/CgA/files/UlRPVEYubm9kZWRhdGEucGxhbmV0b2lkPWVhcnRoLG5vZGVfZGF0YV9lcG9jaD05NjIscGF0aD0zMSxjYWNoZV92ZXJzaW9uPTYsaW1hZ2VyeV9lcG9jaD05ODU.glb?session=CIeFgtLf5qf_jQEQ1Yr6qgY&key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+TilesRendererBase.js:577 ZZZ NOT isExternalTileSet downloadTile_loadindex 1  loadIndex 1
+TilesRendererBase.js:587 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet download queue:  https://tile.googleapis.com/v1/3dtiles/datasets/CgA/files/UlRPVEYubm9kZWRhdGEucGxhbmV0b2lkPWVhcnRoLG5vZGVfZGF0YV9lcG9jaD05NjIscGF0aD0xMyxjYWNoZV92ZXJzaW9uPTYsaW1hZ2VyeV9lcG9jaD05ODU.glb?session=CIeFgtLf5qf_jQEQ1Yr6qgY&key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+TilesRendererBase.js:577 ZZZ NOT isExternalTileSet downloadTile_loadindex 1  loadIndex 1
+TilesRendererBase.js:587 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet download queue:  https://tile.googleapis.com/v1/3dtiles/datasets/CgA/files/UlRPVEYubm9kZWRhdGEucGxhbmV0b2lkPWVhcnRoLG5vZGVfZGF0YV9lcG9jaD05NjIscGF0aD0xMixjYWNoZV92ZXJzaW9uPTYsaW1hZ2VyeV9lcG9jaD05ODU.glb?session=CIeFgtLf5qf_jQEQ1Yr6qgY&key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+TilesRendererBase.js:577 ZZZ NOT isExternalTileSet downloadTile_loadindex 1  loadIndex 1
+TilesRendererBase.js:587 ZZZ TilesRendererBase requestTileContents NOT isExternalTileSet download queue:  https://tile.googleapis.com/v1/3dtiles/datasets/CgA/files/UlRPVEYubm9kZWRhdGEucGxhbmV0b2lkPWVhcnRoLG5vZGVfZGF0YV9lcG9jaD05NjIscGF0aD0wMixjYWNoZV92ZXJzaW9uPTYsaW1hZ2VyeV9lcG9jaD05ODU.glb?session=CIeFgtLf5qf_jQEQ1Yr6qgY&key=AIzaSyAVwHAZdAPZWeS2UiVPCNSEyGRks0qPozM
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+8TilesRendererBase.js:595 ZZZ NOT isExternalTileSet ELSE THEN tile_loadindex 1  loadIndex 1
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
+TilesRendererBase.js:425 ZZZ BAIL OUT
+TilesRendererBase.js:420 ZZZ TilesRendererBase requestTileContents: 
